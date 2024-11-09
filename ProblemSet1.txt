@@ -136,7 +136,7 @@ This document is proprietary to Southern New Hampshire University. It and the pr
 \\\\\\\\
 \begin{center}
 %Enter your name below this line:
-Jessica Megaro
+Joi Branch
 \end{center}
 
 \begin{center}
